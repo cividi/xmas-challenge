@@ -29,7 +29,8 @@ export default {
               "zurich":"VWP496",
               "budapest":"CH620M",
               "hamburg":"XPW22D",
-              "aachen":"WOPTH9"
+              "aachen":"WOPTH9",
+              "berlin":"H3UGV0"
           },
       }
   },

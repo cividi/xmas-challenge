@@ -4,6 +4,9 @@ SFSOL:
     xmas-aachen:
       bfsNumber: 261
       topic: Challenge
+    xmas-berlin:
+      bfsNumber: 261
+      topic: The good list
     xmas-budapest:
       bfsNumber: 261
       topic: Challenge
