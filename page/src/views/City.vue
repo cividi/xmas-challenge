@@ -30,7 +30,8 @@ export default {
               "budapest":"CH620M",
               "hamburg":"XPW22D",
               "aachen":"WOPTH9",
-              "berlin":"H3UGV0"
+              "berlin":"H3UGV0",
+              "eger":"4M11GL"
           },
       }
   },

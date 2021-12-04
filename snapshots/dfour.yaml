@@ -10,6 +10,9 @@ SFSOL:
     xmas-budapest:
       bfsNumber: 261
       topic: Challenge
+    xmas-eger:
+      bfsNumber: 261
+      topic: The good list
     xmas-europe:
       bfsNumber: 261
       topic: Challenge
