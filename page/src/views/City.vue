@@ -16,6 +16,8 @@ export default {
 
   data() {
       return {
+          dfourHub: process.env.VUE_APP_DFOUR_HUB,
+          workspaceHash: process.env.VUE_APP_DFOUR_WORKSPACE_HASH,
           mapping: {
               "europe":"VAXPHU",
               "zurich":"VWP496",
@@ -28,7 +30,7 @@ export default {
 
   computed: {
       iframeSrc: function () {
-          return `https://parti.dfour.io/SFSOL/${this.mapping[this.$route.params.city]}/`
+          return `${this.dfourHub}/${this.workspaceHash}/${this.mapping[this.$route.params.city]}/`
       }
   }
 };
