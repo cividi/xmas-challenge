@@ -1,6 +1,12 @@
 <template>
     <div width="100%" style="height:100vh">
-        <iframe :src="iframeSrc" frameborder=0 width="100%" style="height:100vh" allow="geolocation"></iframe>
+        <iframe 
+            :src="iframeSrc"
+            frameborder=0
+            width="100%"
+            style="height:100vh;overflow:hidden;"
+            allow="geolocation">
+        </iframe>
     </div>
 </template>
 
