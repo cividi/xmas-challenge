@@ -1,0 +1,18 @@
+SFSOL:
+  endpoint: https://parti.dfour.io
+  snapshots:
+    xmas-aachen:
+      bfsNumber: 261
+      topic: Challenge
+    xmas-budapest:
+      bfsNumber: 261
+      topic: Challenge
+    xmas-europe:
+      bfsNumber: 261
+      topic: Challenge
+    xmas-hamburg:
+      bfsNumber: 261
+      topic: Challenge
+    xmas-zurich:
+      bfsNumber: 261
+      topic: Challenge
