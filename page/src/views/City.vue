@@ -31,7 +31,8 @@ export default {
               "hamburg":"XPW22D",
               "aachen":"WOPTH9",
               "berlin":"H3UGV0",
-              "eger":"4M11GL"
+              "eger":"4M11GL",
+              "gothenburg":"9P704J"
           },
       }
   },

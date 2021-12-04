@@ -16,6 +16,9 @@ SFSOL:
     xmas-europe:
       bfsNumber: 261
       topic: Challenge
+    xmas-gothenburg:
+      bfsNumber: 261
+      topic: The good list
     xmas-hamburg:
       bfsNumber: 261
       topic: Challenge
