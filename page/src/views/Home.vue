@@ -5,10 +5,10 @@
                 <v-col class="introtxt text-center pt-12">
                     <div class="introtxt text-center pt-12 col" lang="de">
                         <ParticipationLanding
-                            baseUrl="https://parti.eu-central-1.linodeobjects.com/xmas"
+                            baseUrl="https://parti-dfour.eu-central-1.linodeobjects.com/web/xmas"
                             :logos="logos"
-                            mainImage="campusbochum-closure-1024.png"
-                            mainImageLazy="campusbochum-closure.png"
+                            mainImage="xmasmap-intro-1024.png"
+                            mainImageLazy="xmasmap-intro.png"
                             startDate="6. Dezember"
                         />
                     </div>

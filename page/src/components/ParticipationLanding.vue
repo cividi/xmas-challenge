@@ -1,8 +1,8 @@
 <template>
   <div style="margin-top: -80px;">
-    <h1>The dføur Xmas Challenge 🎄</h1>
+    <h1>Welcome to the dføur Xmas Mapping Challenge 2021!</h1>
     <p>
-      <a href="https://beteiligung.campusbochum.de/de/SDY4F/0N2AQB/">
+      <a href="https://xmas.dfour.io/europe">
         <v-img
           width="100%"
           :lazy-src="`${baseUrl}/${mainImageLazy}`"
@@ -10,14 +10,35 @@
         ></v-img>
       </a>
     </p>
-    <p>
+    <p style="text-align:center;">
       <v-btn
         color="primary"
         large
-        href="/europe"
+        href="https://xmas.dfour.io/europe"
         >
-        Zur Karte
+        Start Mapping
       </v-btn>
+    </p>
+    <h2>The Goal</h2>
+    <p>
+      Map the temporary and create an overview of all Christmas Delights (food, drinks, decoration, events). Whether you are on your way as a tourist or a resident, stop for a second and tell the world about it.
+    </p>
+    <h2>The Challenge</h2>
+    <p>
+      The top contributors will be rewarded with a data towel of their city.
+    </p>
+    <h2>The Timing</h2>
+    <p>
+      Inputs: 6-24. December 2021<br>
+      Results: January 2022
+    </p>
+    <h2>Sharing the Joy</h2>
+    <p>
+      Show your friends how you see Christmas!
+    </p>
+    <h2>The Team Behind</h2>
+    <p>
+      The project is initiated by <a href="https://www.cividi.ch/en/">cividi</a>, and run on <a href="https://www.dfour.space/en/">dføur</a>, the collaborative mapping platform.
     </p>
     <v-row>
       <v-col
@@ -52,6 +73,9 @@ export default {
 </script>
 
 <style scoped>
+div {
+  text-align: left;
+}
 a {
   text-decoration: none;
   /* color: #fff;
