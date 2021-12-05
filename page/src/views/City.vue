@@ -39,7 +39,10 @@ export default {
 
   computed: {
       iframeSrc: function () {
-          return `${this.dfourHub}/${this.workspaceHash}/${this.mapping[this.$route.params.city]}/`
+        var snapshotHash = this.mapping.europe
+        if(Object.keys(this.mapping).includes(this.$route.params.city))
+            snapshotHash = this.mapping[this.$route.params.city]
+        return `${this.dfourHub}/${this.workspaceHash}/${snapshotHash}/`
       }
   }
 };
