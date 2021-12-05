@@ -33,7 +33,7 @@
       <v-list color="primary">
         <v-list-item
           v-for="item in mainnav" :key="item.textKey"
-          :to="'/'  + item.route + '/'">
+          :to="'/' + item.route + '/'">
           <v-list-item-content>
             <v-list-item-title>{{ item.textKey }}</v-list-item-title>
           </v-list-item-content>
@@ -67,7 +67,7 @@ export default {
     return {
       mobnav: false,
       mainnav: [
-        { route: '/imprint', textKey: 'Impressum' },
+        { route: 'imprint', textKey: 'Imprint' },
       ]
     };
   }

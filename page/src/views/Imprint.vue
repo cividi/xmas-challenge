@@ -5,7 +5,7 @@
       >
         <v-flex>
           <h1>
-            Impressum
+            Imprint
           </h1>
           <p>
             cividi GmbH<br>
@@ -15,7 +15,7 @@
           </p>
 
           <h2>
-            Datenschutzerklärung
+            Privacy Policy
           </h2>
           <p>
             xmas.dfour.io (hereinafter platform) and its contents are provided by cividi GmbH. The protection of your personal data is important to us and we treat personal data confidently, and in accordance with the statutory data protection regulations and this privacy policy. The platform generally does not require visitors to provide any personal data. Personal data such as e-mail addresses are required as part of the participation process only to prevent misuse until the process is completed; and will not be published or disclosed to third parties not named in this privacy policy. The collected e-mail addresses will be deleted after completion of the campaign. By using and especially submitting a comment, this privacy policy is acknowledged.
@@ -24,7 +24,7 @@
             When using our website and participation platform, information of a general nature is automatically collected. This information is collected in the server log file and includes the type of web browser, the operating system used, the domain name of your Internet service provider, your IP address and the like. However, your data will not be used to draw conclusions about your person. Information of this kind is only evaluated statistically in order to be able to analyze and optimize our web presence. The data is deleted as soon as it is no longer required for the purpose for which it was collected. For data used to provide the website, this is generally the case when the respective session has ended.
           </p>
           <h3>
-            Server- und Datenmanagement
+            Server and data management
           </h3>
           <p>
             The platform makes use of third-party products and services, which the user acknowledges by visiting and participating. More information about the currently applied data protection concepts of the providers used can be found under:
