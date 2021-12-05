@@ -38,7 +38,10 @@
     </p>
     <h2>The Team Behind</h2>
     <p>
-      The project is initiated by <a href="https://www.cividi.ch/en/">cividi</a>, and run on <a href="https://www.dfour.space/en/">dføur</a>, the collaborative mapping platform.
+      The project is initiated by <a href="https://www.cividi.ch/en/" target="_blank">cividi</a>, and run on <a href="https://www.dfour.space/en/" target="_blank">dføur</a>, the collaborative mapping platform.
+    </p>
+    <p>
+      Contact: Viktoria Molnar, COO cividi GmbH, viktoria[et]cividi[dot]ch
     </p>
     <v-row>
       <v-col

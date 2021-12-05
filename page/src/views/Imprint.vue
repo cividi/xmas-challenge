@@ -18,51 +18,22 @@
             Datenschutzerklärung
           </h2>
           <p>
-            campusbochum.de und beteiligung.campusbochum.de (nachfolgend Plattform) und
-            ihr Inhalt wird durch cividi GmbH gestellt. Der Schutz Ihrer persönlichen
-            Daten ist uns wichtig und wir behandeln personenbezogenen Daten vertraulich
-            und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser
-            Datenschutzerklärung. Die Plattform verlangt von den Besuchern generell keine
-            Angabe persönlicher Daten. Personenbezogene Daten wie E-Mail-Adressen werden als
-            Teil des Beteiligungprozesses lediglich zur Vorbeugung von Missbrauch bis
-            Abschluss des Prozesses benötigt und werden nicht veröffentlicht oder an Dritte,
-            die nicht in dieser Datenschutzerklärung genannt werden weitergegeben. Die
-            erhobenen E-Mail Adressen werden nach Abschluss der öffentlichen Beteiligung
-            gelöscht. Bei Nutzung und besonders Einreichung eines Kommentars wird diese
-            Datenschutzerklärung anerkannt.
+            xmas.dfour.io (hereinafter platform) and its contents are provided by cividi GmbH. The protection of your personal data is important to us and we treat personal data confidently, and in accordance with the statutory data protection regulations and this privacy policy. The platform generally does not require visitors to provide any personal data. Personal data such as e-mail addresses are required as part of the participation process only to prevent misuse until the process is completed; and will not be published or disclosed to third parties not named in this privacy policy. The collected e-mail addresses will be deleted after completion of the campaign. By using and especially submitting a comment, this privacy policy is acknowledged.
           </p>
           <p>
-            Bei der Nutzung unserer Webseite und Beteiligungsplattform werden automatisch
-            Informationen allgemeiner Natur erfasst. Diese Informationen werden im
-            Server-Logfile erfasst und beinhalten die Art des Webbrowsers, das verwendete
-            Betriebssystem, den Domainnamen Ihres Internet-Service-Providers, Ihre IP-Adresse
-            und ähnliches. Ihre Daten werden dabei jedoch nicht verwendet, um Rückschlüsse
-            auf Ihre Person zu ziehen. Informationen dieser Art werden lediglich statistisch
-            ausgewertet, um unseren Web-Auftritt analysieren und optimieren zu können. Die Daten
-            werden gelöscht, sobald diese für den Zweck der Erhebung nicht mehr erforderlich
-            sind. Dies ist für die Daten, die der Bereitstellung der Webseite dienen,
-            grundsätzlich der Fall, wenn die jeweilige Sitzung beendet ist.
+            When using our website and participation platform, information of a general nature is automatically collected. This information is collected in the server log file and includes the type of web browser, the operating system used, the domain name of your Internet service provider, your IP address and the like. However, your data will not be used to draw conclusions about your person. Information of this kind is only evaluated statistically in order to be able to analyze and optimize our web presence. The data is deleted as soon as it is no longer required for the purpose for which it was collected. For data used to provide the website, this is generally the case when the respective session has ended.
           </p>
           <h3>
             Server- und Datenmanagement
           </h3>
           <p>
-            Die Plattform greift auf Produkte und Dienstleistungen von Drittanbietern zurück,
-            was der Nutzer mit seinem Besuch und seiner Teilnahme anerkennt. Mehr Information
-            über die aktuell angewandte Datenschutzkonzepte der verwendeten Anbieter finden
-            Sie unter:
+            The platform makes use of third-party products and services, which the user acknowledges by visiting and participating. More information about the currently applied data protection concepts of the providers used can be found under:
             <ul>
               <li>Analytics: <a href="https://usefathom.com/privacy">
                 usefathom.com/privacy</a></li>
-              <li>Hosting (Standort: Frankfurt):
+              <li>Hosting und Daten (Standort: Frankfurt):
                 <a href="https://www.linode.com/legal-privacy/">
                   linode.com/legal-privacy/</a></li>
-              <li>Daten (Standort: Frankfurt):
-                <a href="https://www.elephantsql.com/legal/privacy_policy.html">
-                  elephantsql.com/legal/privacy_policy.html</a></li>
-              <li>Logs:
-                <a href="https://www.datadoghq.com/legal/privacy/">
-                  datadoghq.com/legal/privacy/</a></li>
               <li>Email Versand:
                 <a href="https://www.mailgun.com/privacy-policy/">
                   mailgun.com/privacy-policy/</a></li>
@@ -71,30 +42,26 @@
           </p>
 
           <h3>
-            TLS-Verschlüsselung
+            TLS-Encryption
           </h3>
           <p>
-            Um die Sicherheit eurer Daten bei der Übertragung zu schützen,
-            verwenden wir dem aktuellen Stand der Technik entsprechende Verschlüsselungsverfahren
-            (z.B. TLS) über HTTPS.
+            To protect the security of your data during transmission, we use state-of-the-art encryption methods (e.g. TLS) via HTTPS.
           </p>
-
           <h3>
-            Sonstiges
+            Other
           </h3>
           <p>
-            Wir können diese Datenschutzerklärung jederzeit ohne Vorankündigung anpassen.
-            Es gilt die jeweils aktuelle, auf dieser Website publizierte Fassung.
+            This privacy policy may be subject of change at any time without notice. The current version published on this website applies.
           </p>
           <p>
-            Für datenschutzrelevante Anliegen könnt ihr euch wenden an:<br>
+            For privacy-related concerns, you can contact:<br>
             Viktoria Molnar<br>
             Flüelastrasse 10<br>
             8048 Zürich<br>
             <a href="mailto:legal@cividi.ch">legal@cividi.ch</a>
           </p>
           <p>
-            Zürich, 25.10.2021
+            Zürich, 05.12.2021
           </p>
         </v-flex>
     </v-layout>
