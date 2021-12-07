@@ -32,7 +32,9 @@ export default {
               "aachen":"WOPTH9",
               "berlin":"H3UGV0",
               "eger":"4M11GL",
-              "gothenburg":"9P704J"
+              "gothenburg":"9P704J",
+              "konstanz":"EN8G29",
+              "luzern":"VM0VKE"
           },
       }
   },
