@@ -1,6 +1,6 @@
 <template>
   <div style="margin-top: -180px;">
-    <h2>Welcome to the dføur Xmas Mapping Challenge 2021!</h2>
+    <h2 style="text-align: center;">Welcome to the dføur Xmas Mapping Challenge 2021!</h2>
     <p>
       <a href="https://xmas.dfour.io/europe">
         <v-img
@@ -21,7 +21,12 @@
     </p>
     <h3>The Goal</h3>
     <p>
-      Map the temporary and create an overview of all Christmas Delights (food, drinks, decoration, events). Whether you are on your way as a tourist or a resident, stop for a second and tell the world about it.
+      <ul>
+        <li>Mapping the temporary & discovering all Xmas-related things around</li>
+        <li>Comparing food & drink (esp. mulled wine) prices across Europe</li>
+        <li>Having fun, getting your daily walk while being part of something bigger</li>
+        <li>Winning a data towel</li>
+      </ul>
     </p>
     <h3>The Challenge</h3>
     <p>
@@ -41,6 +46,74 @@
     <h3>Sharing the Joy</h3>
     <p>
       Show with your friends how you experience the holiday season!
+    </p>
+    <p style="text-align: center;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Emention%7Ctwgr%5Ecividitech&related=cividitech%2Cdfourtech&text=Join%20the%20holiday%20mapping%20at%20xmas.dfour.io." target="_blank" class="twitter-mention-button" data-text="Join the holiday mapping at xmas.dfour.io." data-related="cividitech,dfourtech" data-show-count="false">
+        <v-btn
+          class="mx-1"
+          dark
+          small
+          color="#A13B3E"
+        >
+          <v-icon dark>
+            mdi-twitter
+          </v-icon>
+        </v-btn>
+      </a>
+      <a href="#" 
+        onclick="
+          window.open(
+            'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 
+            'facebook-share-dialog', 
+            'width=626,height=436'); 
+          return false;">
+        <v-btn
+          class="mx-1"
+          dark
+          small
+          color="#A13B3E"
+        >
+          <v-icon dark>
+            mdi-facebook
+          </v-icon>
+        </v-btn>
+      </a>
+      <a href="https://www.linkedin.com/shareArticle?url=xmas.dfour.io&title=Join%20the%20holiday%20mapping%20at%20xmas.dfour.io." target="_blank" rel="nofollow noopener">
+        <v-btn
+          class="mx-1"
+          dark
+          small
+          color="#A13B3E"
+        >
+          <v-icon dark>
+            mdi-linkedin
+          </v-icon>
+        </v-btn>
+      </a>
+      <a href="whatsapp://send?text=xmas.dfour.io" target="_blank" rel="nofollow noopener">
+        <v-btn
+          class="mx-1"
+          dark
+          small
+          color="#A13B3E"
+        >
+          <v-icon dark>
+            mdi-whatsapp
+          </v-icon>
+        </v-btn>
+      </a>
+      <a href="mailto:subject=Join%20the%20holiday%20mapping%20at%20xmas.dfour.io" target="_blank" rel="nofollow noopener">
+        <v-btn
+          class="mx-1"
+          dark
+          small
+          color="#A13B3E"
+        >
+          <v-icon dark>
+            mdi-email
+          </v-icon>
+        </v-btn>
+      </a>
     </p>
     <h3>The Team Behind</h3>
     <p>
