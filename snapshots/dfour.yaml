@@ -4,9 +4,18 @@ SFSOL:
     xmas-aachen:
       bfsNumber: 261
       topic: Challenge
+    xmas-basel:
+      bfsNumber: 2701
+      topic: The good list
+    xmas-bellinzona:
+      bfsNumber: 5002
+      topic: Switzerland
     xmas-berlin:
       bfsNumber: 261
       topic: The good list
+    xmas-bern:
+      bfsNumber: 351
+      topic: Switzerland
     xmas-budapest:
       bfsNumber: 261
       topic: Challenge
@@ -22,6 +31,24 @@ SFSOL:
     xmas-hamburg:
       bfsNumber: 261
       topic: Challenge
+    xmas-konstanz:
+      bfsNumber: 261
+      topic: The good list
+    xmas-london:
+      bfsNumber: 261
+      topic: The good list
+    xmas-luzern:
+      bfsNumber: 1061
+      topic: The good list
+    xmas-montreux:
+      bfsNumber: 5886
+      topic: Switzerland
+    xmas-stgallen:
+      bfsNumber: 3203
+      topic: The good list
+    xmas-stockholm:
+      bfsNumber: 261
+      topic: Sweden
     xmas-zurich:
       bfsNumber: 261
       topic: Challenge

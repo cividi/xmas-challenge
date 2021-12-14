@@ -34,7 +34,14 @@ export default {
               "eger":"4M11GL",
               "gothenburg":"9P704J",
               "konstanz":"EN8G29",
-              "luzern":"VM0VKE"
+              "luzern":"VM0VKE",
+              "london":"YH205J",
+              "basel":"T6C66Z",
+              "bellinzona":"HFVEOT",
+              "bern":"G15SBB",
+              "montreux":"15ZCIQ",
+              "stockholm":"TN0WCC",
+              "stgallen":"DORZQ6"
           },
       }
   },

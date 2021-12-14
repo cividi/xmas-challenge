@@ -1,152 +1,174 @@
 {
     "$schema": "https://raw.githubusercontent.com/cividi/spatial-data-package-spec/main/schemas/snapshot.json",
     "name": "xmas-konstanz",
-    "views":[
-      {
-        "name": "mapview",
-        "resources": [
-            "mapbox"
-        ],
-        "specType": "gemeindescanSnapshot",
-        "spec": {
-          "title": "The dføur Xmas Map Konstanz",
-          "description": "Crowd-Mapped Xmas Delights 2021.",
-          "bounds": [
-              "geo:47.642431,9.14914",
-              "geo:47.673477,9.198622"
-          ],
-          "attribution": "",
-          "legend": [
-            {
-              "label": "Mulled Wine",
-              "primary": true,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#7F000A",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
-            },
-            {
-              "label": "Non-Alcoholic Drink",
-              "primary": false,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#E8A4A0",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
-            },
-            {
-              "label": "Salty Food",
-              "primary": true,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#E1C462",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
-            },
-            {
-              "label": "Sweet Food",
-              "primary": false,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#7D4848",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
-            },
-            {
-              "label": "Xmas Tree",
-              "primary": true,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#11511F",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
-            },
-            {
-              "label": "Xmas Lights",
-              "primary": true,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#ED8A30",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
-            },
-            {
-              "label": "Santa Claus",
-              "primary": false,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#F32E44",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
-            },
-            {
-              "label": "Snowman",
-              "primary": false,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#A6E3DD",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
-            },
-            {
-              "label": "Events (Continuous Programs)",
-              "primary": false,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#0800A7",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
-            },
-            {
-              "label": "COVID Test",
-              "primary": true,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#000000",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
-            },
-            {
-              "label": "Other",
-              "primary": false,
-              "shape": "circle",
-              "size": 1,
-              "fillColor": "#9C9B97",
-              "fillOpacity": 1,
-              "strokeColor": "#000000",
-              "strokeWidth": 0.2,
-              "strokeOpacity": 0.9
+    "views": [
+        {
+            "name": "mapview",
+            "resources": [
+                "mapbox"
+            ],
+            "specType": "gemeindescanSnapshot",
+            "spec": {
+                "title": "The df\u00f8ur Xmas Map Konstanz",
+                "description": "Crowd-Mapped Xmas Delights 2021.",
+                "bounds": [
+                    "geo:47.642431,9.14914",
+                    "geo:47.673477,9.198622"
+                ],
+                "attribution": "",
+                "legend": [
+                    {
+                      "label": "Mulled Wine",
+                      "primary": true,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#7F000A",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Non-Alcoholic Drink",
+                      "primary": false,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#E8A4A0",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Salty Food",
+                      "primary": true,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#E1C462",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Sweet Food",
+                      "primary": false,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#7D4848",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Xmas Tree",
+                      "primary": true,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#11511F",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Xmas Lights",
+                      "primary": true,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#ED8A30",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Santa Claus",
+                      "primary": false,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#F32E44",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Snowman",
+                      "primary": true,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#A6E3DD",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Sledge Slopes",
+                      "primary": false,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#0B91E1",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Events (Continuous Programs)",
+                      "primary": false,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#0800A7",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Xmas History",
+                      "primary": false,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#DFC4AB",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "COVID Test",
+                      "primary": true,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#000000",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    },
+                    {
+                      "label": "Other",
+                      "primary": false,
+                      "shape": "circle",
+                      "size": 1,
+                      "fillColor": "#9C9B97",
+                      "fillOpacity": 1,
+                      "strokeColor": "#000000",
+                      "strokeWidth": 0.2,
+                      "strokeOpacity": 0.9
+                    }
+                  ]
             }
-          ]
         }
-      }
     ],
-    "resources":[
-      {
-        "path": "mapbox://styles/gemeindescan/ckwjk9cur3bcq15pk1ycdodtf",
-        "mediatype": "application/vnd.mapbox-vector-tile",
-        "name": "mapbox"
-      }
+    "resources": [
+        {
+            "path": "mapbox://styles/gemeindescan/ckwjk9cur3bcq15pk1ycdodtf",
+            "mediatype": "application/vnd.mapbox-vector-tile",
+            "name": "mapbox"
+        }
     ]
-  }
+}

@@ -12,8 +12,8 @@
           "title": "The dføur Xmas Map",
           "description": "Crowd-Mapped Xmas Delights 2021.",
           "bounds": [
-              "geo:35.15,-16.46",
-              "geo:58.94,30.92"
+              "geo:-85.0,-180.0",
+              "geo:85,180"
           ],
           "attribution": "",
           "legend": [
@@ -96,10 +96,21 @@
             },
             {
               "label": "Snowman",
-              "primary": false,
+              "primary": true,
               "shape": "circle",
               "size": 1,
               "fillColor": "#A6E3DD",
+              "fillOpacity": 1,
+              "strokeColor": "#000000",
+              "strokeWidth": 0.2,
+              "strokeOpacity": 0.9
+            },
+            {
+              "label": "Sledge Slopes",
+              "primary": false,
+              "shape": "circle",
+              "size": 1,
+              "fillColor": "#0B91E1",
               "fillOpacity": 1,
               "strokeColor": "#000000",
               "strokeWidth": 0.2,
@@ -111,6 +122,17 @@
               "shape": "circle",
               "size": 1,
               "fillColor": "#0800A7",
+              "fillOpacity": 1,
+              "strokeColor": "#000000",
+              "strokeWidth": 0.2,
+              "strokeOpacity": 0.9
+            },
+            {
+              "label": "Xmas History",
+              "primary": false,
+              "shape": "circle",
+              "size": 1,
+              "fillColor": "#DFC4AB",
               "fillOpacity": 1,
               "strokeColor": "#000000",
               "strokeWidth": 0.2,
