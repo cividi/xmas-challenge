@@ -25,6 +25,7 @@ export default {
           dfourHub: process.env.VUE_APP_DFOUR_HUB,
           workspaceHash: process.env.VUE_APP_DFOUR_WORKSPACE_HASH,
           mapping: {
+              "world":"VAXPHU",
               "europe":"VAXPHU",
               "zurich":"VWP496",
               "budapest":"CH620M",
