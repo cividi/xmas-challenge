@@ -14,7 +14,7 @@
       <v-btn
         color="#A13B3E"
         dark large
-        href="https://xmas.dfour.io/europe"
+        href="https://xmas.dfour.io/world"
         >
         Start Mapping
       </v-btn>
