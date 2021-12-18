@@ -49,7 +49,7 @@ export default {
 
   computed: {
       iframeSrc: function () {
-        var snapshotHash = this.mapping.europe
+        var snapshotHash = this.mapping.world
         if(Object.keys(this.mapping).includes(this.$route.params.city))
             snapshotHash = this.mapping[this.$route.params.city]
         return `${this.dfourHub}/${this.workspaceHash}/${snapshotHash}/`
