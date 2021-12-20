@@ -48,12 +48,23 @@ export default {
   },
 
   computed: {
+      utms: function () {
+        var query = this.$route.query
+        return Object.keys(query)
+          .filter( key => key.startsWith("utm") )
+          .reduce( (res, key) => (res[key] = query[key], res), {} );
+      },
       iframeSrc: function () {
         var snapshotHash = this.mapping.world
         if(Object.keys(this.mapping).includes(this.$route.params.city))
             snapshotHash = this.mapping[this.$route.params.city]
-        return `${this.dfourHub}/${this.workspaceHash}/${snapshotHash}/`
+        var url = `${this.dfourHub}/${this.workspaceHash}/${snapshotHash}/`
+        if(Object.entries(this.utms).length > 0) {
+            const utms = Object.entries(this.utms).map(([k,v]) => `${k}=${v}`).join('&');
+            url = `${url}?${utms}`
+        }
+        return url
       }
-  }
+  },
 };
 </script>
